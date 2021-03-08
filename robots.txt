@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://JordanWilker.github.io/blogsitemap.xml
